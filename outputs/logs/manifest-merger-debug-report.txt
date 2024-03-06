@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dbb4e5b4cb6cbf8593c92a8f0730f7f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c5b04901f8ade3afc8bcb4dd18bf7cc1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.nispok:snackbar:2.6.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\snackbar-2.6.1.aar\5fbe806354f5e2d23669fc6ce733d2a1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\1f2086c159a6e6f2293da79453c2047c\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:21.0.2] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.2.aar\601f78ee570c93c7c05d0ffd81638741\AndroidManifest.xml:14:4-20:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\215e82c9b40e1a52a6c1c9a3d6d437c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9c0575a8048e637d69c694f215b4d4f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0f7bd2e8d0d4ea9065a91b067a516544\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d520ac20a64495257d058e0d178a9d54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6c5da0618c16185b8dd52fae5aee32a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\24e068368361dfacce879e176dd219cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e81d5c2324bb8ea1e0d16a1281131f7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\75b7a2027c2cdea029256c9404b9826e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4038e9d9e18b4535658e15916c7eeae9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7e2561648ffefb3a1db77df8968826d8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2b86900e214f4a6ece6e81f9374dff9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5eccf803f7a4e5117d1342cf6a9b9dae\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:3:5-75
+		INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c5b04901f8ade3afc8bcb4dd18bf7cc1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c5b04901f8ade3afc8bcb4dd18bf7cc1\AndroidManifest.xml:9:5-20
+MERGED from [com.nispok:snackbar:2.6.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\snackbar-2.6.1.aar\5fbe806354f5e2d23669fc6ce733d2a1\AndroidManifest.xml:10:5-20
+MERGED from [com.nispok:snackbar:2.6.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\snackbar-2.6.1.aar\5fbe806354f5e2d23669fc6ce733d2a1\AndroidManifest.xml:10:5-20
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\1f2086c159a6e6f2293da79453c2047c\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\1f2086c159a6e6f2293da79453c2047c\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:recyclerview-v7:21.0.2] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.2.aar\601f78ee570c93c7c05d0ffd81638741\AndroidManifest.xml:17:5-19:19
+MERGED from [com.android.support:recyclerview-v7:21.0.2] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.2.aar\601f78ee570c93c7c05d0ffd81638741\AndroidManifest.xml:17:5-19:19
+	android:supportsRtl
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.fgcu.maintenanceproject.weatherstationandroidapplication.Activity.WeatherStationActivity
+ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:13:19-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dbb4e5b4cb6cbf8593c92a8f0730f7f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dbb4e5b4cb6cbf8593c92a8f0730f7f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c5b04901f8ade3afc8bcb4dd18bf7cc1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c5b04901f8ade3afc8bcb4dd18bf7cc1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.nispok:snackbar:2.6.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\snackbar-2.6.1.aar\5fbe806354f5e2d23669fc6ce733d2a1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.nispok:snackbar:2.6.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\snackbar-2.6.1.aar\5fbe806354f5e2d23669fc6ce733d2a1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\1f2086c159a6e6f2293da79453c2047c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\1f2086c159a6e6f2293da79453c2047c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:21.0.2] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.2.aar\601f78ee570c93c7c05d0ffd81638741\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:recyclerview-v7:21.0.2] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.2.aar\601f78ee570c93c7c05d0ffd81638741\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\215e82c9b40e1a52a6c1c9a3d6d437c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\215e82c9b40e1a52a6c1c9a3d6d437c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9c0575a8048e637d69c694f215b4d4f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9c0575a8048e637d69c694f215b4d4f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0f7bd2e8d0d4ea9065a91b067a516544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0f7bd2e8d0d4ea9065a91b067a516544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d520ac20a64495257d058e0d178a9d54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d520ac20a64495257d058e0d178a9d54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6c5da0618c16185b8dd52fae5aee32a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6c5da0618c16185b8dd52fae5aee32a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\24e068368361dfacce879e176dd219cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\24e068368361dfacce879e176dd219cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e81d5c2324bb8ea1e0d16a1281131f7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e81d5c2324bb8ea1e0d16a1281131f7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\75b7a2027c2cdea029256c9404b9826e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\75b7a2027c2cdea029256c9404b9826e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4038e9d9e18b4535658e15916c7eeae9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4038e9d9e18b4535658e15916c7eeae9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7e2561648ffefb3a1db77df8968826d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7e2561648ffefb3a1db77df8968826d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2b86900e214f4a6ece6e81f9374dff9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2b86900e214f4a6ece6e81f9374dff9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5eccf803f7a4e5117d1342cf6a9b9dae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5eccf803f7a4e5117d1342cf6a9b9dae\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAndroidApplication\app\src\main\AndroidManifest.xml
+activity#android.support.v7.widget.TestActivity
+ADDED from [com.android.support:recyclerview-v7:21.0.2] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.2.aar\601f78ee570c93c7c05d0ffd81638741\AndroidManifest.xml:18:9-115
+	android:label
+		ADDED from [com.android.support:recyclerview-v7:21.0.2] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.2.aar\601f78ee570c93c7c05d0ffd81638741\AndroidManifest.xml:18:19-59
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:21.0.2] C:\Users\Brannon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.2.aar\601f78ee570c93c7c05d0ffd81638741\AndroidManifest.xml:18:60-113

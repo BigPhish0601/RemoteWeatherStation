@@ -1,0 +1,11 @@
+C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAPI\weatherstation\weatherstation\bin\Debug\netcoreapp2.0\weatherstation.deps.json
+C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAPI\weatherstation\weatherstation\bin\Debug\netcoreapp2.0\weatherstation.runtimeconfig.json
+C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAPI\weatherstation\weatherstation\bin\Debug\netcoreapp2.0\weatherstation.runtimeconfig.dev.json
+C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAPI\weatherstation\weatherstation\bin\Debug\netcoreapp2.0\weatherstation.dll
+C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAPI\weatherstation\weatherstation\bin\Debug\netcoreapp2.0\weatherstation.pdb
+C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAPI\weatherstation\weatherstation\obj\Debug\netcoreapp2.0\weatherstation.csprojResolveAssemblyReference.cache
+C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAPI\weatherstation\weatherstation\obj\Debug\netcoreapp2.0\weatherstation.csproj.CoreCompileInputs.cache
+C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAPI\weatherstation\weatherstation\obj\Debug\netcoreapp2.0\weatherstation.AssemblyInfoInputs.cache
+C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAPI\weatherstation\weatherstation\obj\Debug\netcoreapp2.0\weatherstation.AssemblyInfo.cs
+C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAPI\weatherstation\weatherstation\obj\Debug\netcoreapp2.0\weatherstation.dll
+C:\Users\Brannon\Development\MaintenanceProject\WeatherStationAPI\weatherstation\weatherstation\obj\Debug\netcoreapp2.0\weatherstation.pdb
